@@ -37,8 +37,6 @@ NetSec started as a basic vulnerability matcher but evolved into a real-time, mu
 ├── uploads/                  # Sample and real Suricata EVE logs
 ├── static/                   # CSS styling
 ├── templates/                # HTML files for web dashboard
-├── Documentation.pdf         # Full technical documentation
-├── final_project_presentation.pptx
 ```
 
 ---
