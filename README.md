@@ -3,9 +3,6 @@
 
 A lightweight, intelligent, and scalable SIEM-like solution that provides real-time network traffic classification using **Suricata**, **XGBoost**, and a **Flask-based dashboard**.
 
-> Graduation Project – El-Sewedy University of Technology  
-> Faculty of Engineering Technology, Department of Computer Engineering Technology
-
 ---
 
 ## 📌 Project Overview
